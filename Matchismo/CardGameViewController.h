@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CardGameViewController.h
 //  Matchismo
 //
 //  Created by Tim Asquith on 30/12/2014.
