@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 Red Ronin. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "CardGameViewController.h"
 
-@interface ViewController ()
+@interface CardGameViewController ()
 
 @end
 
-@implementation ViewController
+@implementation CardGameViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
